@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mineskeeper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mineskeeper_jar</output-path>
+    <root id="archive" name="Mineskeeper.jar">
+      <element id="module-output" name="Mineskeeper" />
+    </root>
+  </artifact>
+</component>
